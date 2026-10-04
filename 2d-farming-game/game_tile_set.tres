@@ -12,4 +12,7 @@ texture = ExtResource("1_jevdp")
 0:0/0 = 0
 
 [resource]
+terrain_set_0/mode = 0
+terrain_set_0/terrain_0/name = "Tilled Dirt Terrain0"
+terrain_set_0/terrain_0/color = Color(0.5, 0.34375, 0.25, 1)
 sources/2 = SubResource("TileSetAtlasSource_uft10")
